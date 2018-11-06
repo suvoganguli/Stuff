@@ -1,0 +1,16 @@
+Instaiing and Running Ipopt
+===========================
+
+- Install pip
+
+- Install BLAS (ma27+)
+
+- Install LAPACK (optional)
+
+- Install Ipopt
+
+- Install CoinHSL
+
+- Install Cyipopt
+
+
